@@ -36,7 +36,6 @@ a.font-black {
   border-radius: 50%;
   width: 120px;
   margin-bottom: 10px;
-  height: 120px;
 }
 
 #about .name {
@@ -54,7 +53,7 @@ a.font-black {
 #about .skills {
   font-size: 15px;
   color: #00abae;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .skills {
@@ -76,6 +75,8 @@ a.font-black {
 .introduction {
   text-align: center;
   margin-top: 0;
+  max-width: 500px;
+  text-align: center;
 }
 
 .icons {
@@ -89,10 +90,10 @@ a.font-black {
 .bi {
   color: black;
   text-align: center;
-  color: black;
   margin-top: 20px;
   font-size: 30px;
   align-items: center;
+  margin-right: 10px;
 }
 
 /* PROJECT */
