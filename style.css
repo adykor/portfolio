@@ -11,6 +11,20 @@ body {
   font-weight: bold;
 }
 
+p {
+  font-size: 14px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 23px;
+  margin-bottom: 20px;
+}
+
+a.font-black {
+  color: #000 !important;
+}
+
 /* About */
 #about {
   margin: 60px auto;
@@ -53,8 +67,30 @@ body {
 
 .icons {
   text-align: center;
-  color: #000;
+  color: black;
   margin-top: 20px;
   font-size: 30px;
   align-items: center;
+}
+
+/* PROJECT */
+#project {
+  margin: 64px auto;
+  width: 80%;
+}
+
+#project .font-primary {
+  color: #00abae;
+}
+
+#project h2 {
+  text-align: center;
+}
+
+#project .card img {
+  width: 100%;
+}
+
+#project .card-title {
+  font-weight: bold;
 }
