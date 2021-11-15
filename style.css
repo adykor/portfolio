@@ -36,10 +36,13 @@ a.font-black {
   border-radius: 50%;
   width: 120px;
   margin-bottom: 10px;
+  height: 120px;
 }
 
 #about .name {
   font-size: 19px;
+  font-weight: bolder;
+  margin-bottom: 3px;
 }
 
 #about .vocation {
@@ -51,7 +54,12 @@ a.font-black {
 #about .skills {
   font-size: 15px;
   color: #00abae;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
+}
+
+.skills {
+  color: #00abae;
+  margin-bottom: 5px;
 }
 
 #about .email {
@@ -65,7 +73,21 @@ a.font-black {
   text-align: center;
 }
 
+.introduction {
+  text-align: center;
+  margin-top: 0;
+}
+
 .icons {
+  text-align: center;
+  color: black;
+  margin-top: 20px;
+  font-size: 30px;
+  align-items: center;
+}
+
+.bi {
+  color: black;
   text-align: center;
   color: black;
   margin-top: 20px;
