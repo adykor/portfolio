@@ -4,7 +4,7 @@ This portfolio is a small project using HTML, CSS and Bootstrap. I will be using
 
 [Live Heroku Deployment](https://portfolio-kyerstin.herokuapp.com/)
 
-[Screenshot](![Portfolio](https://user-images.githubusercontent.com/80643320/141819388-002f903f-ac1f-4eb7-a158-bbfdc943a5c7.png))
+![Screenshot](![Portfolio](https://user-images.githubusercontent.com/80643320/141819388-002f903f-ac1f-4eb7-a158-bbfdc943a5c7.png))
 
 ## Technologies Used
 
