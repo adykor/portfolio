@@ -1,9 +1,26 @@
+/* logo blue: #2dcac3 */
+/* cyan: #00E0D4 */
+/* original color: #00abae; */
+
+/* * {
+  background-color: black;
+  /* color: #F8F0E3; */
+/* color: #EAEFF2;
+} */
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap");
+
+.container {
+  color: #eaeff2;
+}
+
 body {
-  font-family: "monospace", sans-serif;
+  /* font-family: "monospace", sans-serif; */
+  font-family: "Poppins", sans-serif;
 }
 
 .font-primary {
-  color: #00abae;
+  color: #00e0d4;
 }
 
 .title-icon {
@@ -57,12 +74,15 @@ a.font-black {
 
 #about .skills {
   font-size: 15px;
-  color: #00abae;
+  /* color: #00abae; */
+  color: #00e0d4;
+  /* color: #2dcac3; */
   margin-bottom: 10px;
 }
 
 .skills {
-  color: #00abae;
+  color: #00e0d4;
+  /* color: #2dcac3; */
   margin-bottom: 5px;
 }
 
@@ -86,14 +106,15 @@ a.font-black {
 
 .icons {
   text-align: center;
-  color: black;
+  color: #00e0d4;
   margin-top: 20px;
   font-size: 30px;
   align-items: center;
 }
 
 .bi {
-  color: black;
+  /* color was black */
+  color: #00e0d4;
   text-align: center;
   margin-top: 20px;
   font-size: 30px;
@@ -113,7 +134,8 @@ a.font-black {
 }
 
 #projects .font-primary {
-  color: #00abae;
+  /* color: #00abae; */
+  color: #00e0d4;
 }
 
 #projects h2 {
@@ -132,4 +154,9 @@ a.font-black {
   width: 100%;
   max-height: 300px;
   background-color: black;
+}
+
+.btn-secondary {
+  background-color: #00e0d4;
+  border: none;
 }
