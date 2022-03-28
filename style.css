@@ -96,9 +96,10 @@ a.font-black {
 
 .parent:hover .child {
   animation: left-to-right 2s ease-in forwards;
-  /* animation-fill-mode: forwards; */
-}
+  /* animation-fill-mode: forwards;
+ } */
 
+/* 
 @keyframes left-to-right {
   0% {
     transform: translateX(0);
@@ -116,7 +117,7 @@ a.font-black {
   
     transform: translateX(100%);
   }
-} */
+} */ */
 /* END ANIMATION */
 
 .skills {
@@ -201,7 +202,4 @@ a.font-black {
 }
 
 
-
-
-/* DIGITAL MEDIA PAGE */
 
